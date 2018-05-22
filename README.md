@@ -1,5 +1,3 @@
-# UGR Ejercicios Sistemas Operativos
+# Ejercicios Sistemas Operativos UGR
 
-Algunos ejercicios de la asignatura de Sistema Operativos de la UGR.
-
-No me hago responsable del uso de estos ejercicios así como de los posibles fallos que estos tengan.
+Algunos ejercicios resueltos de la Asignatura de Sistemas Operativos de la UGR. No me hago responsable del uso de estos ejercicios ni de los posibles fallos que puedan tener estos.
